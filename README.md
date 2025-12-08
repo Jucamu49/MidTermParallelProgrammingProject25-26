@@ -47,4 +47,5 @@ Do the same as in the sequential and adjust the number of threads you want to te
 > Note: The kernel size can also be changed in both versions.
 
 
-Author:Juan Carrion Muguerza
+Author
+[Juan Carrion Muguerza]
