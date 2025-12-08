@@ -40,6 +40,8 @@ These settings ensure that the program runs efficiently and fully benefits from 
 Write the name of the image you want to test in the variable "filename",and in the main use the erosion or dilation function.
 The resulting image will apear in the project folder as "ProcessedImage".png.
 
+Author:Juan Carrion Muguerza
+
 ## In the parallel version:
 Do the same as in the sequential and adjust the number of threads you want to test with by changing the number in the function omp_set_num_threads() at line 39.
 
