@@ -6,7 +6,7 @@ This repository contains two C++ programs along with the images required for tes
 
 - **src/** → C++ source code(with neccesary .h to be run)  
 - **data/** → Input images to test
-- **docs/** → PDF report  
+- **Technical report.pdf** → Tech Report 
 - **README.md** → Project information and compilation instructions  
 
 ## How to Compile
