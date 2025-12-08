@@ -43,5 +43,5 @@ The resulting image will apear in the project folder as "ProcessedImage".png.
 ## In the parallel version:
 Do the same as in the sequential and adjust the number of threads you want to test with by changing the number in the function omp_set_num_threads() at line 39.
 
-Note: The kernel size can also be changed in both versions.
+> Note: The kernel size can also be changed in both versions.
 
